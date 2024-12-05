@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Hello! 
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hi it's Aryan! Here's some notes I've been taking in college; hope they help. 
+
+Also, if you're in Dr Chen's math class, get those Chencils :)
